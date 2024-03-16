@@ -1,6 +1,6 @@
 # Article Title
 
-Posted on [Date] by [Author Name]
+Posted on [Date] by Tungwong Chi
 
 ## Abstract
 This is the abstract of the article, providing a brief summary of the content and key points discussed within the blog post.
@@ -36,9 +36,9 @@ The conclusion of the article...
 To reference this article, please use the following formats:
 
 ```bibtex
-@online{引用标识,
+@online{refTitle,
     title={title},
-    author={author},
+    author={Tungwong Chi},
     year={year},
     month={month},
     url={\url{https://url}},

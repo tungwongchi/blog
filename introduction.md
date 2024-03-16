@@ -35,8 +35,8 @@ root((Tungwong Chi))
 To reference this article, please use the following formats:
 
 ```bibtex
-@online{引用标识,
-    title={Tungwong Chi Self Introduction},
+@online{refTitle,
+    title={Self Introduction},
     author={Tungwong Chi},
     year={2024},
     month={03},
