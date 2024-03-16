@@ -43,3 +43,7 @@ To reference this article, please use the following formats:
     url={\url{https://tungwongchi.github.io/introduction.html}},
 }
 ```
+
+---
+
+&copy; 2020 Tungwong Chi. All rights reserved.

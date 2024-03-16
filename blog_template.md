@@ -44,3 +44,7 @@ To reference this article, please use the following formats:
     url={\url{https://url}},
 }
 ```
+
+---
+
+&copy; 2020 Tungwong Chi. All rights reserved.

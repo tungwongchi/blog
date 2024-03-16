@@ -15,11 +15,11 @@ Machine Learning...
 ```
 -->
 
-<!-- 
 ### Archive
 
-- [2023](https://tungwongchi.github.io/blog_md.html?path=year/2023)
+- [old blog](https://github.com/tungwongchi/old-blog)
 
+<!-- 
 ### Categories
 
 - [Python](https://tungwongchi.github.io/blog_md.html?path=category/Python) 
