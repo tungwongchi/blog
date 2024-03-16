@@ -3,7 +3,7 @@
 
 ## About Me
 
-Welcome. Here lies the fusion of technology and life. For more about me, see [my profile](https://tungwongchi.github.io/introduction.html). Looking forward to your every visit.
+Welcome. Here lies the fusion of technology and life. For more about me, see [my introduction](https://tungwongchi.github.io/introduction.html). Looking forward to your every visit.
 
 ---
 
