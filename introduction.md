@@ -34,12 +34,6 @@ root((Tungwong Chi))
 
 To reference this article, please use the following formats:
 
-- **APA Format:**
-```
-Tungwong Chi. (2024, 03 16). 《Tungwong Chi Self Introduction》[Blog post]. Retrieved from https://tungwongchi.github.io/introduction.html
-```
-
-- **BibTeX Format:**
 ```bibtex
 @online{引用标识,
     title={Tungwong Chi Self Introduction},

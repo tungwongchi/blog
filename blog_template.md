@@ -35,12 +35,6 @@ The conclusion of the article...
 
 To reference this article, please use the following formats:
 
-- **APA Format:**
-```
-author. (year, month date). 《title》[Blog post]. Retrieved from https://url
-```
-
-- **BibTeX Format:**
 ```bibtex
 @online{引用标识,
     title={title},
