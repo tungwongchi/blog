@@ -47,4 +47,5 @@ To reference this article, please use the following formats:
 
 ---
 
-&copy; 2020 Tungwong Chi. All rights reserved.
+&copy; 2020 Tungwong Chi. All rights reserved.  
+Follow me on [Blog](https://tungwongchi.github.io)

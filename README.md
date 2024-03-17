@@ -9,11 +9,8 @@ Welcome. Here lies the fusion of technology and life. For more about me, see [my
 
 ### Recent Blog Posts
 
-<!-- 
-```markdown
-Machine Learning...
-```
--->
+***[Multi role-playing large language model](https://github.com/tungwongchi/mRP-LLM)***  
+Role-playing in conversational AI allows for the simulation of various characters and scenarios, providing rich and diverse interactions. We propose mRP-LLM, a novel approach that integrates multiple role-playing characters into a single model to maximize resource efficiency and expand the model's conversational capabilities.
 
 ### Archive
 
@@ -27,4 +24,5 @@ Machine Learning...
 
 ---
 
-&copy; 2020 Tungwong Chi. All rights reserved.
+&copy; 2020 Tungwong Chi. All rights reserved.  
+Follow me on [Blog](https://tungwongchi.github.io)
