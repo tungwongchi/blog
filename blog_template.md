@@ -41,7 +41,7 @@ To reference this article, please use the following formats:
     author={Tungwong Chi},
     year={year},
     month={month},
-    url={\url{https://url}},
+    url={\url{https://tungwongchi.github.io/blog/}},
 }
 ```
 
