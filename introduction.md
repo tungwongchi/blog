@@ -4,6 +4,8 @@ Posted on 2024-03-16 by Tungwong Chi
 
 ## Introduction
 
+### Project Skills
+
 ```mermaid
 mindmap
 root((Tungwong Chi))
