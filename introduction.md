@@ -10,7 +10,7 @@ root((Tungwong Chi))
 
     Language
         Java 2013.09~
-        Python 2019.10~
+        Python 2015.09~
 
     Web
         J2EE 2013.09~
@@ -18,6 +18,7 @@ root((Tungwong Chi))
     Artificial Intelligence
         Machine Learning 2015.09~
         Deep Learning 2018.07~
+        LLM 2024-03~
 
     Multimedia Technology
         FFMPEG 2013.04~
@@ -25,6 +26,8 @@ root((Tungwong Chi))
     Big Data
         hive 2017.08~
         spark 2017.08~
+        ELK 2017.08~
+        flink 2021-05~
 
 ```
 
