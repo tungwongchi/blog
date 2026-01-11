@@ -18,7 +18,7 @@ root((Tungwong Chi))
     Artificial Intelligence
         Machine Learning 2015.09~
         Deep Learning 2018.07~
-        LLM 2024-03~
+        LLM 2023-09~
 
     Multimedia Technology
         FFMPEG 2013.04~
