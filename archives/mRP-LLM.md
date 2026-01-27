@@ -10,24 +10,7 @@ Role-playing in conversational AI allows for the simulation of various character
 
 Role-playing within AI-driven conversational systems offers immersive experiences in various domains. Traditional models require separate instances for each character, leading to high computational costs. We introduce mRP-LLM, a unified model architecture capable of simulating multiple roles, conserving resources, and enabling complex interactions.
 
-## 2. Main Content
-
-### 2.1. Related Work
-The related work of the article...
-
-### 2.2. Methodology
-The methodology of the article...
-
-### 2.3. Experiments
-The experiments of the article...
-
-### 2.4. Analysis and Discussion
-The analysis and discussion of the article...
-
-### 2.5. Conclusion
-The conclusion of the article...
-
-### 2.6. References
+## References
 
 - Ma Zhiming. (2024). Roleplay-with-XiYou [Data]. Available at https://github.com/JimmyMa99/Roleplay-with-XiYou
 - Shanghai AI Laboratory. (2024). InternLM2-Chat-7B [LLM]. Available at https://modelscope.cn/Shanghai_AI_Laboratory/internlm2-chat-7b
